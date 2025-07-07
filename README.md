@@ -3,10 +3,6 @@
 A cross-platform, privacy-focused desktop application that provides a graphical interface for interacting with local LLMs via [Ollama](https://ollama.com/).  
 This tool automatically installs its dependencies, manages an Ollama server, pulls models on demand, and streams chat responses in real time.
 
-<p align="center">
-  <img src="docs/screenshot-dark.png" alt="Privacy LLM GUI (dark theme)" width="600"/>
-</p>
-
 ---
 
 ## Features
