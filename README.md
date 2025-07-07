@@ -24,6 +24,6 @@ This tool automatically installs its dependencies, manages an Ollama server, pul
   - Light/Dark theme toggle  
 
 - 🔄 **Streaming inference**  
-  Sends user inputs to the model via `langchain_ollama.ChatOllama` and displays partial responses as they arrive.
+  Sends user inputs to the model via `ChatOllama` and displays partial responses as they arrive.
 
 ---
