@@ -5,6 +5,11 @@ This tool automatically installs its dependencies, manages an Ollama server, pul
 
 ---
 
+![Screenshot of the UI](screenshot.png)
+
+
+---
+
 ## Features
 
 - 🚀 **Zero-touch dependency management**  
