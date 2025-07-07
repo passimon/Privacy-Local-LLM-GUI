@@ -115,4 +115,4 @@ A cross-platform, privacy-focused desktop application that provides a graphical 
 
 ## License
 
-This project is released under the MIT License. See `LICENSE` for details.
+This project is released under the MIT License.
